@@ -1,2 +1,2 @@
 # Data-Analytics-Projects
-Discover a range of comprehensive data analytics projects featuring SQL, Python, and Power BI. Uncover insights and tackle real-world challenges through data extraction, analysis, and visualization. Perfect for both beginners and professionals aiming to advance their data analytics expertise.
+Explore a collection of end-to-end data analytics projects showcasing SQL, Python, and Power BI. Gain valuable insights and solutions to real-world problems through data extraction, analysis, and visualization. Ideal for beginners and professionals looking to enhance their skills in data analytics.
